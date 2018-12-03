@@ -1,0 +1,3 @@
+com\vedatech\admin\VedatechApplication.class
+com\vedatech\admin\MvcConfig.class
+com\vedatech\admin\RequestFilter.class

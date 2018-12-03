@@ -1,0 +1,3 @@
+Name,Account,Balance
+Caja Chica, 1000-000-100, 3500.25
+Inventarios Producto Terminado,1000-000-300, 12600

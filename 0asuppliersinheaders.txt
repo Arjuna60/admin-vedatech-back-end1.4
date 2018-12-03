@@ -1,0 +1,16 @@
+SupplierId,SupplierName,InitialDate,Country,PinCode,Email
+1,Lokesh,02/01/2018,India,110001,abc@gmail.com
+2,John,02/01/2018,USA,220002,def@gmail.com
+3,Blue,02/01/2018,France,330003,ghi@gmail.com
+4,Reddy,02/01/2018,Jermany,440004,abc@gmail.com
+5,Kumar,02/01/2018,India,110001,def@gmail.com
+6,Paul,02/01/2018,USA,220002,ghi@gmail.com
+7,Grimm,02/01/2018,France,330003,abc@gmail.com
+8,WhoAmI,02/01/2018,Jermany,440004,def@gmail.com
+9,Bharat,02/01/2018,India,110001,ghi@gmail.com
+10,Rocky,02/01/2018,USA,220002,abc@gmail.com
+11,Voella,02/01/2018,France,330003,def@gmail.com
+12,Gruber,02/01/2018,Jermany,440004,ghi@gmail.com
+13,Satty,02/01/2018,India,110001,abc@gmail.com
+14,Bean,02/01/2018,USA,220002,def@gmail.com
+15,Krish,02/01/2018,France,330003,ghi@gmail.com

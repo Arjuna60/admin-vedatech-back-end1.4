@@ -1,0 +1,3 @@
+SupplierId,SupplierName,Country,PinCode,Email
+1,Lokesh,India,110001,abc@gmail.com
+2,pUNDARIK,India,555501,abc@gmail.com
